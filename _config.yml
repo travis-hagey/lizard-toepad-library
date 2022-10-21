@@ -20,9 +20,9 @@ source-code: https://github.com/travis-hagey/lizard-toepad-library
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Lizard Toe Pads  
+title: Lizard Toe Pad Library
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of lizard toes
+tagline: A collection of lizard toe images
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "a library of toe pad and similar images of lizards and closely related species"
