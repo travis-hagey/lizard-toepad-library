@@ -41,8 +41,8 @@ metadata: lizardmetadata
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "Hagey Lab"
-organization-link: https://travis-hagey.com
-organization-logo-banner: assets/img/logo-100x100.jpg
+#organization-link: https://travis-hagey.com
+#organization-logo-banner: assets/img/logo-100x100.jpg
 #organization-logo-nav: logo-100x100.jpg
 
 
