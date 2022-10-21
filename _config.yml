@@ -40,10 +40,10 @@ metadata: lizardmetadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+organization-name: "Hagey Lab"
 organization-link: https://travis-hagey.com
 organization-logo-banner: logo-100x100.jpg
-organization-logo-nav: logo-100x100.jpg
+#organization-logo-nav: logo-100x100.jpg
 
 
 
