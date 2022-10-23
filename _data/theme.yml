@@ -37,9 +37,9 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 ##########
 # CLADE PAGE
 #
-clades-fields: location # set the field to be featured in the cloud
-clades-min: 1 # min size for subject cloud, too many terms = slow load time!
-clades-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+clade-fields: location # set the field to be featured in the cloud
+clade-min: 1 # min size for subject cloud, too many terms = slow load time!
+clade-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # MAP PAGE
