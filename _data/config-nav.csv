@@ -1,7 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Source,/source.html
+Publication,/source.html
 Clade,/clade.html
+Genus,/genus.html
 About,/about.html
 Hagey Lab,https://travis-hagey.com
