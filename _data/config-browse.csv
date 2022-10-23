@@ -1,4 +1,6 @@
 field,display_name,btn,hidden,sort_name
+
+genus,Genus,btn,,
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
