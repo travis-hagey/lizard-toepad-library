@@ -5,7 +5,7 @@ permalink: /clade.html
 # Default clade page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.clade-fields"
 # a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.clade-fields
+cloud-fields: clade
 ---
 
 ## Browse Clades
